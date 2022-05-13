@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "2C200210B76DC20CC2350C7AE0DF7769",
+  "keywordClasses": [
+    {
+      "name": "packageNew.newKeyword",
+      "keywordMethods": [
+        {
+          "name": "activitySpinner",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AB7AA278EBB1B0571AD29AA227A3880F",
+  "keywordClasses": [
+    {
+      "name": "packageNew.KeywordNew",
+      "keywordMethods": [
+        {
+          "name": "activitySpinner",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
